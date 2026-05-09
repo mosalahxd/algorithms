@@ -1,0 +1,14 @@
+Algorithm: SRTF
+
+Processes:
+P1  Arrival=0  Burst=7
+P2  Arrival=2  Burst=5
+P3  Arrival=4  Burst=1
+P4  Arrival=5  Burst=4
+
+Results:
+Gantt Chart: P1 -> P2 -> P3 -> P2 -> P4 -> P1
+
+Average Waiting Time = 5
+Average Turnaround Time = 9.25
+Average Response Time = 1.25
