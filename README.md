@@ -13,3 +13,13 @@ This project simulates CPU Scheduling Algorithms using Python GUI.
 
 ## Run
 python main.py
+
+
+
+TEAM MEMBERS:
+محمد صلاح عبداللطيف درويش
+ياسين حمدي يوسف محمود
+فارس بهاء الدين فتحي 
+عبد الرحمن ايمن محمد
+زياد محمود محمد مصطفى
+ 
