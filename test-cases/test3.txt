@@ -7,8 +7,8 @@ P3  Arrival=4  Burst=1
 P4  Arrival=5  Burst=4
 
 Results:
-Gantt Chart: P1 -> P2 -> P3 -> P2 -> P4 -> P1
+Gantt Chart: P1 -> P3 -> P1 -> P4 -> P2
 
-Average Waiting Time = 5
-Average Turnaround Time = 9.25
-Average Response Time = 1.25
+Average Waiting Time = 3.5  
+Average Turnaround Time = 7.25
+Average Response Time = 3.25
