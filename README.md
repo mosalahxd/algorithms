@@ -17,8 +17,21 @@ python main.py
 
 
 ##TEAM MEMBERS:
-Mohamed Salah Abdel Latif Darwish
-Yassin Hamdy Youssef Mahmoud
-Fares Baha El-Din Fathy
-Abdelrahman Ayman Mohamed
-Ziad Mahmoud Mohamed Mostafa
+
+يوسف عادل طه
+
+
+محمد صلاح عبداللطيف درويش
+
+
+ياسين حمدي يوسف محمود
+
+
+فارس بهاء الدين فتحي 
+
+
+عبد الرحمن ايمن محمد
+
+
+
+زياد محمود محمد مصطفى
